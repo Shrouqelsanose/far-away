@@ -70,7 +70,7 @@ select {
   --webkit-appearance: none;
   background-image: url(./assets/caret-down.svg);
   background-repeat: no-repeat;
-  background-position: right 6px center;
+  background-position: right 1px center;
   background-size: 33px;
 }
 
